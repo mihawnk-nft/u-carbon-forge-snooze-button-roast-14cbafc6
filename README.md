@@ -18,6 +18,14 @@ Why this line: a fresh angle (the alarm as a smoke detector, not the tired
 "hate mornings" complaint), a concrete image, and the punchline pays off in
 the last few words — sayable out loud in one breath.
 
+## How the line was picked
+
+Three candidate angles were weighed against the judge's brief (roast the
+6 AM Saturday alarm, fresh angle, punchline at the end): the alarm as a
+smoke detector won over the alarm as a drill sergeant and the alarm as a
+door-to-door salesman, because the detector gives the sharpest concrete
+image and the funniest last words ("came to put it out").
+
 ## Run it
 
 ```sh
